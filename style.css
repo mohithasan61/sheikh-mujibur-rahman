@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+body {
+    background-color: #eee;
+    text-align: center;
+    color: #333;
+    font-family: 'Merriweather', 'Noto Sans', 'Source Sans Pro', sans-serif, serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+ul {
+    padding-bottom: 30px;
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+#tribute-info h3 {
+    font-size: 22px;
+    padding-bottom: 14px;
+}
+
+section#tribute-info {
+    max-width: 500px;
+    margin: auto;
+    text-align: justify;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+figcaption#img-caption {
+    max-width: 610px;
+    margin: auto;
+    font-size: 14px;
+}
+
+figure#img-div {
+    background-color: #fff;
+    padding: 25px;
+    margin: 0px;
+}
+
+img#image {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 25px;
+    width: 610px;
+    display: block;
+    margin: auto;
+}
+
+#main p{
+    padding: 30px 0px;
+    padding-top: 0px;
+}
+
+#main p.about {
+    padding: 30px;
+    padding-top: 0px;
+}
+
+h1#title {
+    padding-top: 70px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
